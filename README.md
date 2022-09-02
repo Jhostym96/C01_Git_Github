@@ -49,7 +49,7 @@ git commit -m "Comentario"
 git log
 ```
 
-* para ver el historia de los cambios realizados en un archivo en especifico.
+* Para ver el historia de los cambios realizados en un archivo en especifico.
 
 ```bash
 git show id
@@ -69,7 +69,7 @@ git branch
 ```bash
 git remote -v
 ```
-* Pra asociar el repositorio local con el remoto.
+* Para asociar el repositorio local con el remoto.
 
 ```bash
 git remote add origin url
@@ -80,8 +80,14 @@ git remote add origin url
 ```bash
 git remote set-url origin url
 ```
-* para poder subir los cambios al repositorio remoto.
+* Para poder subir los cambios al repositorio remoto.
 
 ```bash
 git push origin main
+```
+
+* Extension utilizada  : Markdown Previe
+
+```bash
+Esta extension nos muestra de manera preliminar como se vera nuestro codigo en GitHub.
 ```
