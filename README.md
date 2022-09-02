@@ -54,3 +54,13 @@ git log
 ```bash
 git show id
 ```
+* Para cambiar el nombre de la rama principal.
+
+```bash 
+git branch -M main
+```
+* Para poder ver las ramas que tenemos.
+
+```bash
+git branch
+```
