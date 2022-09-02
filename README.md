@@ -64,3 +64,8 @@ git branch -M main
 ```bash
 git branch
 ```
+* Para ver a que url esta asociado el repositorio.
+
+```bash
+git remote -v
+```
