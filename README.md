@@ -69,3 +69,9 @@ git branch
 ```bash
 git remote -v
 ```
+
+* -Para cambiar la url del repositorio.
+
+```bash
+git remote set-url origin url
+```
