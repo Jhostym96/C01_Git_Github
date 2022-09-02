@@ -80,3 +80,8 @@ git remote add origin url
 ```bash
 git remote set-url origin url
 ```
+* para poder subir los cambios al repositorio remoto.
+
+```bash
+git push -u origin main
+```
