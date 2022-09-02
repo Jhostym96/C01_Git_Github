@@ -69,8 +69,13 @@ git branch
 ```bash
 git remote -v
 ```
+* Pra asociar el repositorio local con el remoto.
 
-* -Para cambiar la url del repositorio.
+```bash
+git remote add origin url
+```
+
+* Para cambiar la url del repositorio.
 
 ```bash
 git remote set-url origin url
